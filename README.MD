@@ -68,6 +68,6 @@ A Mk2 é uma empresa voltada para o seguimento Militar, Airsoft, Camping, Unifor
 
 
 
-Nota:  para esse trabalho me baseei nos trabalhos dos colegas 
-    - Pedro Schulz Rangel: https://github.com/PedroSchulzRangel/Gama_Academy_Hacker_Desafio_Individual_1 e
-    - Erycson Jose: https://github.com/ErycsonJose/XP-Challenge1
+###Nota:  para esse trabalho me baseei nos trabalhos dos colegas 
+- Pedro Schulz Rangel: https://github.com/PedroSchulzRangel/Gama_Academy_Hacker_Desafio_Individual_1 e
+- Erycson Jose: https://github.com/ErycsonJose/XP-Challenge1
