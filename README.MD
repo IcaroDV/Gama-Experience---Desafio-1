@@ -121,3 +121,8 @@ e utilizando a ferramenta  [Adobe Color](https://color.adobe.com/), definimos a 
 #### Fonte auxiliar:
   ![Fonte_Principal](imagens/fonte_terciaria_myriad_variable_concept.png)
 
+### 5 - Estrutura do site
+
+#### Infelizmente não foi possível concluir todas as tasks do desafio. Das solicitadas, tem-se
+    - Responsividade
+    - Implementação do Bootstrap
