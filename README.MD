@@ -1,4 +1,4 @@
-# HACKER - DESAFIO INDIVIDUAL 1
+# HACKER - DESAFIO INDIVIDUAL PARTE 1
 
 ## Objetivo
 
@@ -33,14 +33,14 @@ A Mk2 é uma empresa voltada para o seguimento Militar, Airsoft, Camping, Unifor
 - História 2: prioridade alta
 - História 3: prioridade baixa
 
-### Sprint
+### Sprints
 
 - Sprint 1: Pesquisa de modelos bootstrap e personalização usando somente HTML e CSS
     - Histórias 1 e 2 
 
 |         Funcionalidades              | Complexidade |   Tempo    |  
 |    :----------------------:          | :----------: |   :----:   |  
-| Pesquisar modelos adequado           |    fácil     |     3h     | 
+| Pesquisar modelos adequados           |    fácil     |     3h     | 
 | Ajustar estrutura e paleta de cores  |    fácil     |     3h     |
 | Ajustar tipografia e layout          |    médio     |     3h     |  
  
@@ -72,7 +72,7 @@ Nota:  para esse trabalho me baseei nos trabalhos dos colegas
     - Pedro Schulz Rangel: https://github.com/PedroSchulzRangel/Gama_Academy_Hacker_Desafio_Individual_1 e
     - Erycson Jose: https://github.com/ErycsonJose/XP-Challenge1
 
-# HACKER - DESAFIO INDIVIDUAL 2
+# HACKER - DESAFIO INDIVIDUAL PARTE 2
 
 ## Registro das etapas de produção da página
     - Pretende-se, com esta etapa, documentar o passo a passo da criação do site seguindo a ordem das sprints acima definidas.
@@ -90,8 +90,12 @@ Nota:  para esse trabalho me baseei nos trabalhos dos colegas
     - A Taurus atualmente ta com uma proposta mais direta, além de possuir uma boa tipografia, enquanto que a Imbel possui várias opções de interação com imagens e texto bem bonitas. Portanto escolhi esses dois entes para basear o meu site.
 
 ### 3 - Definindo paleta de cores
-    - Respeitando ao máximo as cores já esolhidas na confecção do logo do cliente
-   ![Logo da empresa](../Gama%20Experience%20-%20Desafio%201/imagens/logo_definitivo.png) ![#fbb030](https://via.placeholder.com/15/fbb030/000000?text=+) `#fbb030`
+    - Respeitando ao máximo as cores já esolhidas previamente na confecção do logo do cliente
+   ![Logo da empresa](imagens/logo_definitivo.png) Logo da empresa
+   
+   `Principais cores`
+
+   ![#fbb030](https://via.placeholder.com/15/fbb030/000000?text=+) `#fbb030`
 
   ![#fb6239](https://via.placeholder.com/15/fb6239/000000?text=+) `#fb6239`
   
@@ -103,5 +107,17 @@ Nota:  para esse trabalho me baseei nos trabalhos dos colegas
 
   ![#9c9d9f](https://via.placeholder.com/15/9c9d9f/000000?text=+) `#9c9d9f`
 
+e utilizando a ferramenta  [Adobe Color](https://color.adobe.com/), definimos a paleta de cores registradas abaixo:
 
+![Paleta_de_Cores](imagens/paleta_de_cores.png)
+
+### 4 - Definindo Tipografia
+#### Fonte principal:
+  ![Fonte_Principal](imagens/fonte_primaria_robofan_free.png)
+  
+#### Fonte secundária:
+  ![Fonte_Principal](imagens/fonte_secundária_tw_cen_mt_condensed.png)
+
+#### Fonte auxiliar:
+  ![Fonte_Principal](imagens/fonte_terciaria_myriad_variable_concept.png)
 
