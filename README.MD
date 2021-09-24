@@ -68,6 +68,40 @@ A Mk2 é uma empresa voltada para o seguimento Militar, Airsoft, Camping, Unifor
 
 
 
-### Nota:  para esse trabalho me baseei nos trabalhos dos colegas 
-- Pedro Schulz Rangel: https://github.com/PedroSchulzRangel/Gama_Academy_Hacker_Desafio_Individual_1 e
-- Erycson Jose: https://github.com/ErycsonJose/XP-Challenge1
+Nota:  para esse trabalho me baseei nos trabalhos dos colegas 
+    - Pedro Schulz Rangel: https://github.com/PedroSchulzRangel/Gama_Academy_Hacker_Desafio_Individual_1 e
+    - Erycson Jose: https://github.com/ErycsonJose/XP-Challenge1
+
+# HACKER - DESAFIO INDIVIDUAL 2
+
+## Registro das etapas de produção da página
+    - Pretende-se, com esta etapa, documentar o passo a passo da criação do site seguindo a ordem das sprints acima definidas.
+
+### 1 - Pesquisa de sites de lojas / associações / instituições que possuem temática relacionada à temática do cliente
+    - Imbel https://www.imbel.gov.br/
+    - CBC https://www.cbc.com.br/
+    - Taurus https://taurusarmas.com.br/
+
+### 2 - Sites bases escolhidos
+    - Taurus
+    - Imbel
+
+#### Justificativa 
+    - A Taurus atualmente ta com uma proposta mais direta, além de possuir uma boa tipografia, enquanto que a Imbel possui várias opções de interação com imagens e texto bem bonitas. Portanto escolhi esses dois entes para basear o meu site.
+
+### 3 - Definindo paleta de cores
+    - Respeitando ao máximo as cores já esolhidas na confecção do logo do cliente
+   ![Logo da empresa](../Gama%20Experience%20-%20Desafio%201/imagens/logo_definitivo.png) ![#fbb030](https://via.placeholder.com/15/fbb030/000000?text=+) `#fbb030`
+
+  ![#fb6239](https://via.placeholder.com/15/fb6239/000000?text=+) `#fb6239`
+  
+  ![#2bad10](https://via.placeholder.com/15/2bad10/000000?text=+) `#2bad10`
+
+  ![#1c700b](https://via.placeholder.com/15/1c700b/000000?text=+) `#1c700b`
+
+  ![#fbfff7](https://via.placeholder.com/15/fbfff7/000000?text=+) `#fbfff7`
+
+  ![#9c9d9f](https://via.placeholder.com/15/9c9d9f/000000?text=+) `#9c9d9f`
+
+
+
